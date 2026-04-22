@@ -12,4 +12,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/stevevue77
+**LinkedIn:** [linkedin.com/in/stevevue](https://www.linkedin.com/in/steve-vue-70aa65248)
