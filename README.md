@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Jira (Help Desk Ticketing System)</b>
+  - [Jira: Ultimate Jira Tutorial](https://github.com/svue12/Ultimate-Jira-Tutorial)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/svue12/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/svue12/post-install-config)
