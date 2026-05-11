@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/svue12/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/svue12/azure-network-protocols)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine](https://github.com/svue12/VPN-Setup-in-Virtual-Machine)
 - <b>Jira (Help Desk Ticketing System)</b>
   - [Jira: Basic Jira Tutorial](https://github.com/svue12/Basic-Jira-Tutorial)
 
